@@ -4,4 +4,6 @@ I created a simple calculator web application on a web server using Node.js and 
 
 # How to Use
 
-Type into 2 numbers and click calculate. This will then show you the results of both numbers added together.
+Type 2 numbers and click calculate. This will then show you the results of both numbers added together.
+
+Also you can find out your BMI by inputting your weight and height, then click calculate.
